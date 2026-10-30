@@ -1,0 +1,22 @@
+[project]
+name = "chatbot-using-openai-sdk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "churchilleduce", email = "churchilleduce@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "gradio>=6.31.0",
+    "openai-agents>=0.24.0",
+    "pypdf>=6.21.4",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+chatbot-using-openai-sdk = "chatbot_using_openai_sdk:main"
+
+[build-system]
+requires = ["uv_build>=0.13.0,<0.14.0"]
+build-backend = "uv_build"
