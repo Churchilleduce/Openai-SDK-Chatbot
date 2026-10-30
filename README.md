@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CV Chatbot
 
 An AI chatbot that answers questions about your career, skills, and experience, so recruiters and employers can get to know you in seconds. Upload your CV, and the bot speaks as you, in the first person, using only what's actually in it.
@@ -87,3 +88,7 @@ Built by **Churchill Educe**
 
 ## License
 Free to use and adapt for your own portfolio.
+=======
+# Openai-SDK-Chatbot
+CV chatbot built with the OpenAI Agents SDK, OpenRouter, and Gradio. Upload your CV and let it answer questions about you.
+>>>>>>> 71f5fefd0efd9af58a516b1e2f9d4f92fe3b1ed5
