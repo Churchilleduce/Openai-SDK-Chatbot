@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CV Chatbot
 
 An AI chatbot that answers questions about your career, skills, and experience, so recruiters and employers can get to know you in seconds. Upload your CV, and the bot speaks as you, in the first person, using only what's actually in it.
